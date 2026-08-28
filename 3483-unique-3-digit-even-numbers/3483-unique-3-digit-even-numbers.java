@@ -1,43 +1,44 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        int[] freq = new int[10];
+
+        int[] map = new int[10];
 
         // Count how many times each digit occurs
-        for (int digit : digits) {
-            freq[digit]++;
+        for (int d : digits) {
+            map[d]++;
         }
 
         int count = 0;
 
-        for (int num = 100; num <= 999; num++) {
+        // First digit: 1-9 (can't be 0)
+        for (int i = 1; i <= 9; i++) {
 
-            // Number must be even
-            if (num % 2 != 0) {
+            if (map[i] == 0)
                 continue;
-            }
 
-            int a = num / 100;          // hundreds digit
-            int b = (num / 10) % 10;    // tens digit
-            int c = num % 10;           // ones digit
+            map[i]--;
 
-            // Check availability
-            int[] needed = new int[10];
-            needed[a]++;
-            needed[b]++;
-            needed[c]++;
+            // Second digit: 0-9
+            for (int j = 0; j <= 9; j++) {
 
-            boolean possible = true;
+                if (map[j] == 0)
+                    continue;
 
-            for (int d = 0; d < 10; d++) {
-                if (needed[d] > freq[d]) {
-                    possible = false;
-                    break;
+                map[j]--;
+
+                // Third digit: even digits only
+                for (int k = 0; k <= 8; k += 2) {
+
+                    if (map[k] == 0)
+                        continue;
+
+                    count++;
                 }
+
+                map[j]++;
             }
 
-            if (possible) {
-                count++;
-            }
+            map[i]++;
         }
 
         return count;
