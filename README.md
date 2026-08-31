@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/jeba57/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/jeba57/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jeba57/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jeba57/Leetcode_Solutions/tree/master/0342-power-of-four) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/jeba57/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
