@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/jeba57/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/jeba57/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/jeba57/Leetcode_Solutions/tree/master/0231-power-of-two) |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/jeba57/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
