@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/jeba57/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/jeba57/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
