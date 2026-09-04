@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/jeba57/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/jeba57/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/jeba57/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/jeba57/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/jeba57/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 ## String
 |  |
