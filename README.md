@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/jeba57/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jeba57/Leetcode_Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jeba57/Leetcode_Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/jeba57/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/jeba57/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jeba57/Leetcode_Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/jeba57/Leetcode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jeba57/Leetcode_Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
