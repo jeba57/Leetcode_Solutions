@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/jeba57/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/jeba57/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jeba57/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/jeba57/Leetcode_Solutions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jeba57/Leetcode_Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/jeba57/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/jeba57/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jeba57/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/jeba57/Leetcode_Solutions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
