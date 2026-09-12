@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/jeba57/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/jeba57/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/jeba57/Leetcode_Solutions/tree/master/0231-power-of-two) |
