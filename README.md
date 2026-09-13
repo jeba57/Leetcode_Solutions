@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/jeba57/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/jeba57/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/jeba57/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/jeba57/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/jeba57/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jeba57/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/jeba57/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/jeba57/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jeba57/Leetcode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/jeba57/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
