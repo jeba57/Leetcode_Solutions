@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jeba57/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/jeba57/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/jeba57/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/jeba57/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/jeba57/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jeba57/Leetcode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jeba57/Leetcode_Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jeba57/Leetcode_Solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jeba57/Leetcode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
