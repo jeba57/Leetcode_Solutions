@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jeba57/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/jeba57/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/jeba57/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jeba57/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/jeba57/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/jeba57/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/jeba57/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/jeba57/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
