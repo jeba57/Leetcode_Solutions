@@ -61,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/jeba57/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/jeba57/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/jeba57/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/jeba57/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/jeba57/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/jeba57/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/jeba57/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/jeba57/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
