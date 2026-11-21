@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/jeba57/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/jeba57/Leetcode_Solutions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/jeba57/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/jeba57/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jeba57/Leetcode_Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jeba57/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/jeba57/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/jeba57/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/jeba57/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
