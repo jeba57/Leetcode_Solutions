@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jeba57/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/jeba57/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jeba57/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1528-shuffle-string](https://github.com/jeba57/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jeba57/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/jeba57/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/jeba57/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/jeba57/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/jeba57/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/jeba57/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/jeba57/Leetcode_Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
